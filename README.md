@@ -3,7 +3,7 @@
 ### Spring Boot 3, MVC, MongoDB (_with MongoRepository_), Redis (_for caching_), Docker
 
 _For testing purposes a MongoDB database is created and deployed to the MongoDB cloud.
-The **books-db** consists of 2 collections: **books**._
+The **books-db** consists of 2 collections: **books** anf **book-catalog**._
 
 Steps:
 
