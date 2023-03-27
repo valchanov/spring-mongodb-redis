@@ -38,7 +38,7 @@ public class BookController {
         return bookService.update(id, book);
     }
 
-    @DeleteMapping(("/{id}"))
+    @DeleteMapping("/{id}")
     void save(@PathVariable String id) {
         bookService.delete(id);
     }
